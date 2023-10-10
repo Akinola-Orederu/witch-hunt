@@ -1,7 +1,11 @@
 CARDSIZE = 6.35,8.89
+LABELMERGE = ON
 
 LinkMulti = amount
-LINK=C:\Users\rathy\projects\witch-hunt\decks\witch hunt decks.xlsx!bless - 2
+LINK=decks\witch hunt decks.xlsx!bless - 2
+LINK=decks\witch hunt decks.xlsx!curse - 2
+LINK=decks\witch hunt decks.xlsx!div - 2
+
 
 VISUAL=, 10, 10
 FONT=Arial,18,,#000000
@@ -9,24 +13,6 @@ TEXT="1-{(COST)}",[COST],0%,0%,100%,17.8%
 TEXT="1-{(TEXT)}",[TEXT],0%,45.6%,100%,54.4%,CENTER,WWCENTER
 ENDVISUAL
 
-display=bless2.png
-
-LINK=C:\Users\rathy\projects\witch-hunt\decks\witch hunt decks.xlsx!curse - 2
-
-VISUAL=, 10, 10
-FONT=Arial,18,,#000000
-TEXT="1-{(COST)}",[COST],0%,0%,100%,17.8%
-TEXT="1-{(TEXT)}",[TEXT],0%,45.6%,100%,54.4%,CENTER,WWCENTER
-ENDVISUAL
-
-display=curse2.png
-
-LINK=C:\Users\rathy\projects\witch-hunt\decks\witch hunt decks.xlsx!div - 2
-
-VISUAL=, 10, 10
-FONT=Arial,18,,#000000
-TEXT="1-{(COST)}",[COST],0%,0%,100%,17.8%
-TEXT="1-{(TEXT)}",[TEXT],0%,45.6%,100%,54.4%,CENTER,WWCENTER
-ENDVISUAL
-
-display=div2.png
+display=decks\bless2.png,1,9
+display=decks\curse2.png,10,18
+display=decks\div2.png,19,27

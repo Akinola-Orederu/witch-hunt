@@ -1,6 +1,6 @@
 CARDSIZE = 6.35,8.89
 
-LINK=C:\Users\rathy\Downloads\witch hunt decks.xlsx!witches
+LINK=decks\witch hunt decks.xlsx!witches
 
 VISUAL=, 10, 10
 RECTANGLE=1,0%,0%,100%,100%,#FF0000
@@ -11,4 +11,4 @@ RECTANGLE=5,0%,0%,100%,100%,#FFFF00
 RECTANGLE=6,0%,0%,100%,100%,#00FF00
 ENDVISUAL
 
-display=witches.png
+display=decks\witches.png
