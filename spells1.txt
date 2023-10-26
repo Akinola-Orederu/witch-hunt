@@ -13,3 +13,4 @@ TEXT="1-{(TEXT)}",[TEXT],0%,45.6%,100%,54.4%,CENTER,WWCENTER
 ENDVISUAL
 
 display=decks\spells1.png
+SAVE=1-9,"spells1\{§}.png"

@@ -1,0 +1,5 @@
+IMAGE=1-6,"witches\{§}.png",0,0,100%,100%
+IMAGE=7-12,"witches-back.png",0,0,100%,100%
+DUPLEX=1-6,7-12
+PRINT=DUPLEX
+SAVEPDF="prints\witches-print.pdf"

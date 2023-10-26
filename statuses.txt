@@ -9,3 +9,5 @@ TEXT="1-{(NAME)}",[NAME],0%,0%,100%,12.6%
 FONT=Arial,20,,#000000
 TEXT="1-{(TEXT)}",[TEXT],0%,64.4%,100%,35.6%
 ENDVISUAL
+
+SAVEPDF="prints\statuses-print.pdf"

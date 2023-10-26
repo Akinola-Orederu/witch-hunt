@@ -1,0 +1,5 @@
+IMAGE=1-24,"event\{§}.png",0,0,100%,100%
+IMAGE=25-28,"event-back.png",0,0,100%,100%
+DUPLEX=1-24,25-28
+PRINT=DUPLEX
+SAVEPDF="prints\events-print.pdf"

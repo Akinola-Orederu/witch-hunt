@@ -16,3 +16,4 @@ ENDVISUAL
 display=decks\bless2.png,1,9
 display=decks\curse2.png,10,18
 display=decks\div2.png,19,27
+SAVE=1-27,"spells2\{§}.png"

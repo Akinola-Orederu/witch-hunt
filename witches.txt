@@ -12,3 +12,4 @@ RECTANGLE=6,0%,0%,100%,100%,#00FF00
 ENDVISUAL
 
 display=decks\witches.png
+SAVE=1-6,"witches\{§}.png"

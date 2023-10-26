@@ -1,0 +1,9 @@
+IMAGE=1-9,"spells2\{§}.png",0,0,100%,100%
+IMAGE=10-18,"spells2\{§}.png",0,0,100%,100%
+IMAGE=19-27,"spells2\{§}.png",0,0,100%,100%
+IMAGE=28-54,"bless2-back.png",0,0,100%,100%
+IMAGE=37-45,"curse2-back.png",0,0,100%,100%
+IMAGE=46-54,"div2-back.png",0,0,100%,100%
+DUPLEX=1-27,28-54
+PRINT=DUPLEX
+SAVEPDF="prints\spells2-print.pdf"
