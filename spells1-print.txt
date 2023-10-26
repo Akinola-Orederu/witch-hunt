@@ -5,4 +5,4 @@ IMAGE=1-9,"spells1\{§}.png",0,0,100%,100%
 IMAGE=10-18,"spells1-back.png",0,0,100%,100%
 DUPLEX=1-9,10-18
 PRINT=DUPLEX
-;SAVEPDF="prints\spells1-print.pdf"
+SAVEPDF="prints\spells1-print.pdf"
